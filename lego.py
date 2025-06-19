@@ -164,3 +164,5 @@ class Lego:
         if os.path.exists(file_name):
             bite = os.path.getsize(file_name)
             return Fore.CYAN + f"размер файла (в байтах): {bite}"
+        else:
+            print(Fore.RED + f"файл {file} не найден, или имя было введено неправильно!")
