@@ -66,4 +66,4 @@ pip install git+https://github.com/XRay4ik/LegoTik.git
 
 > but if it doesn't work, then, you should be next to Legotik-main where are the main library files, create a file next to it, and then open it in IDE, and you will be able to work successfully with it☺️
 
-'love by: KoldI (XRay4ik)♥️'
+`love by: KoldI (XRay4ik)♥️`
