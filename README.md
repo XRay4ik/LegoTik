@@ -61,4 +61,5 @@ _💡Please note that the file extension is not required 'txt', the file can hav
 when installing the library, pip is used, here is example the installing:
 
 ```python
-pip install
+pip install git+https://github.com/XRay4ik/LegoTik.git
+```
