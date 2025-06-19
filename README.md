@@ -64,14 +64,6 @@ when installing the library, pip is used, here is example the installing:
 pip install git+https://github.com/XRay4ik/LegoTik.git
 ```
 
-but if it doesn't work, then:
-1. go to the directory where the library is located in the terminal
-```python
-cd /your/file/directory
-```
-2. install the library into global memory
-```python
-pip install .
-```
-> 💡for the library to work, you need to create an executable file next to the LegoTik-main folder (where all the library files are located)
->>💡also, to work with the library, you need to open it in the programming environment IDE
+> but if it doesn't work, then, you should be next to Legotik-main where are the main library files, create a file next to it, and then open it in IDE, and you will be able to work successfully with it☺️
+
+'love by: KoldI (XRay4ik)♥️'
