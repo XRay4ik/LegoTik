@@ -74,3 +74,4 @@ cd /your/file/directory
 pip install .
 ```
 > 💡for the library to work, you need to create an executable file next to the LegoTik-main folder (where all the library files are located)
+>>💡also, to work with the library, you need to open it in the programming environment IDE
