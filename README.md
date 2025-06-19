@@ -55,3 +55,10 @@ Lego.zip_load("myfile.txt")
 ```
 
 _💡Please note that the file extension is not required 'txt', the file can have ABSOLUTELY any extension, the main thing is that it does not create errors and conflicts between iterations_
+
+**💿 installing**
+
+when installing the library, pip is used, here is example the installing:
+
+```python
+pip install
